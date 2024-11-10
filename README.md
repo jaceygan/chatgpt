@@ -1,0 +1,2 @@
+# chatgpt
+trying out chatgpt
